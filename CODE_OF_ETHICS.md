@@ -32,4 +32,4 @@ As the creator, I am prepared to take full responsibility for the development pr
 
 -   **Human-in-the-Loop:** The system must be designed from the ground up to be controllable and interruptible by a human operator. Robust "kill switches" and other control mechanisms are not optional features but core design requirements.
 -   **Incremental and Sandboxed Deployment:** The system will be tested rigorously in secure, sandboxed environments. Greater autonomy or access will not be granted until its behavior has been thoroughly vetted and understood in controlled settings.
--   **Community Engagement:** I are accountable not just to ourselves, but to the broader AI safety and alignment research community. I will actively participate in this community, share findings, solicit feedback, and learn from the collective knowledge of the field.
+-   **Community Engagement:** I believe we are accountable not just to ourselves, but to the broader AI safety and alignment research community. I will actively participate in this community, share findings, solicit feedback, and learn from the collective knowledge of the field.
